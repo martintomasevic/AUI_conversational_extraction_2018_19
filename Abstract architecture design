@@ -1,0 +1,32 @@
+Abstract system architecture design
+-----------------------------------
+Real-time conversational extraction of main words/topics during therapy sessions for children with NDD.
+
+TECHNOLOGIES TO USE: 
+
+Android platform
+	- widespread use
+	- mobility of devices
+	- integrated microphone
+	- can be used on tablets which are main devices in rehabilitation center
+
+Cloud natural language - Google engine for NLP(https://cloud.google.com/natural-language/)
+	- simple to use API
+	- support for over 120 languages(Italian included)
+
+TextRazor - free API for topic extraction from text (https://www.textrazor.com/)
+	- easy to use API
+	- good results when extracting from text
+
+
+ARCHITECTURE:
+
+- Mobile app based on Android platform, internet connection is necessary.
+- Controls will be simple(start, stop, pause session).
+- Words from voice, i.e. main topics, are going to be extracted in real-time.
+- Files with words from session will be stored on device, and visual representation of conversation will be
+  shared to parents via in built share function of the app.
+
+
+
+

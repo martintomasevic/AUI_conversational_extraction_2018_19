@@ -1,0 +1,32 @@
+Primary users: therapist, parents
+Secondary users: children with NDD
+Tertiary users: students working on a project
+
+
+NEEDS
+
+Therapist: -use the data that is collected in each session with a patient to improve the therapy
+Parents: - get insight in their child improvement and also get information about which topics should they talk to their children
+Children: - improve their mental health and communication with the rest of the society
+
+
+CONTEXT: private room in a healthcare center
+
+CONSTRAINTS: - children behavior within a session
+- distinguishing child's voice from the therapist voice
+- resolving ambiguity and noise in the data that is result of the imperfection of human voice
+
+GOALS:
+
+Therapist: improve overall quality of therapy  
+Parents: get information from the therapy about topics they could talk with their children about
+Children: improve their mental health and communication with their parents
+
+
+REQUIREMENTS:
+
+- voice recording should be possible with a smartphone
+- data from each session should be stored in the system
+- therapist should be able to modify the data in a way to resolve ambiguity and to emphasize words/topics that are more relevant in his/her opinion 
+- most important words/topics are going to be visualized so the parents could see and understand them
+
