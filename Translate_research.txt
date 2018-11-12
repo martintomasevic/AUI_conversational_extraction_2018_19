@@ -1,0 +1,27 @@
+Translation
+https://diuna.biz/length-of-words-average-number-of-characters-in-a-word/
+average number of characters in a word: 5.95 (Italian)
+
+!WINNER!
+Microsoft Translate API
+https://www.microsoft.com/en-us/translator/business/translator-api/
+	- free up to 2 million characters per month ~ 336 134,5 words per month
+	~ 11 204,5 words per day
+
+Yandex translate API
+https://translate.yandex.com/developers/prices
+	- maybe free, maybe not
+
+Google Translate API
+https://cloud.google.com/translate/pricing
+	- up to 1 billion characters = 20 USD per month
+
+Pairaphrase
+https://www.pairaphrase.com/how-it-works/api-for-developers/
+	- uses https
+	- 125 usd per month
+
+Watson translate API
+https://www.ibm.com/watson/services/language-translator/
+	- free up to 1 million characters per month
+	- who knows what after

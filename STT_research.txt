@@ -1,0 +1,27 @@
+Speech to text (STT)
+mozilla
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#Speech_recognition
+	- written in javascript
+	- free?
+android built-in
+	- not continuous
+	- free?
+watson
+https://www.ibm.com/watson/services/speech-to-text/
+	- free for 100 minutes
+google cloud
+https://cloud.google.com/speech-to-text/
+	- free for 60 minutes
+		- after 60 (up to 1 million) 0.006 USD / 15 seconds
+
+!WINNER!
+CMUSphinx
+https://cmusphinx.github.io/wiki/about/
+	- open source?
+	- free?
+	- supports italian
+	- offline stt
+Web Speech API
+https://w3c.github.io/speech-api/#introduction
+	- free?
+	- written in what?

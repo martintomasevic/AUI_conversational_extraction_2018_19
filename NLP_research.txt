@@ -1,0 +1,18 @@
+NLP
+Content classification?
+
+Google NLP API
+https://cloud.google.com/natural-language/
+	- free for 30k units per month
+
+TextRazor
+	- free for 500 requests per day
+		- 10kB of words per request
+
+!WINNER! (most probably)
+MeaningCloud
+https://www.meaningcloud.com/products/topics-extraction
+https://www.meaningcloud.com/products/pricing
+	- free for 20k requests per day (2 requests per second)
+		- 500/125 words per request for public/premium API
+	- supports Italian
