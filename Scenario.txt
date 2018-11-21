@@ -1,0 +1,43 @@
+scenarios
+Davide is a 14 year-old boy who has a NDD. Giulia is a 37 year-old woman who has a NDD. Maria is a therapist who works at a therapeutic center. As Maria starts the session with Giulia and Davide, she presses the button "Start session" on her tablet which turns on the microphone and the external screen which doesn't show anything at the begging.
+Dislaimer: This scenario provides a conversation in English for simplicity, but the real conversation will be in Italian.
+
+	Maria:"How was your day, what did you do?"
+
+	Davide:"It was good, I played a game with Giulia after I watched TV"
+
+	Giulia:"I had a lot of fun playing the game with Davide"
+
+The conversational extraction agent will parse the input speech, extract topics and visualize them on an external screen (i.e. a projector who projects it on a table)
+On the screen the words "day", "game", "Giulia", "Davide", "good", "fun" and "TV" will appear and will be connected with lines.
+	
+	Maria:"That's great!"
+	Maria points her finger to the word game.
+	Maria:"Can you tell me what is the name of your game"?
+
+	Davide:"It was Monopoly!"
+
+	Giulia:"No, we didn't play monopoly. We played tic-tac-toe instead. I won!"
+
+Now the conversational extraction agent will have more data about the conversation, so it will add more words in the visualization (i.e. "Monopoly", "tic-tac-toe", "win") and it will connect them to the word Game
+
+	Davide:"No! It isn't true, I was the on who won!"
+
+	Maria sees that the word "win" causes an emotional disturbance for Davide, so she will long press it on her tablet and delete it from the visualization
+	In order to draw attention to the word "TV", Maria will press the word "TV" once on her tablet in order to increase its size.
+
+	Maria:"Davide, can you please tell me what did you watch on TV?"
+
+	Davide:"I watched my favourite TV show, Tom & Jerry!"
+
+Words "show" and "Tom & Jerry" will appear connected to the word "TV", and the word "TV" will increase its size because it is a more relevant topic now
+
+	Maria:"Great to hear! See you tomorrow!"
+	
+	Davide:"See you!"
+
+	Giulia:"See you!"
+
+	Maria will press a button "End session" which will turn off the external screen and turn off the microphone.  
+	
+Additional note: A real session will last much longer than this scenario (probably an hour), there will be more participants that two and the words might not show up on the screen immediately due to technological constraints.
